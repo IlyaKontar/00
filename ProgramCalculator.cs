@@ -7,11 +7,6 @@ namespace Calculator
         static void Main(string[] args)
         {
     
-          // while(){
-                
-            //     double.TryParse(tempInput, out parse)
-            // }
-
             Console.WriteLine("Введіть 1 число.");
             double y=Convert.ToDouble(Console.ReadLine());           
            Console.WriteLine("Введіть 2 число.");
